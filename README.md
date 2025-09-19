@@ -87,21 +87,23 @@ Speed Limit (mph)	38.87	30	14.03
 •	By City: Birmingham (8.6K casualties)
 
 ## Recommendations
-Infrastructure
+**Infrastructure**
+
 •	Add rumble strips and clear markings on single carriageways.
 
 •	Upgrade signage and signal control at T-junctions.
 
 •	Introduce raised crossings and speed bumps in 30 mph urban zones.
 
-Policy & Enforcement
+**Policy & Enforcement**
+
 •	Expand speed camera enforcement in 30 mph areas.
 
 •	Prioritize hotspots for police monitoring.
 
 •	Mandate junction safety reviews in urban planning.
 
-Public Awareness
+**Public Awareness**
 •	Launch campaigns targeting risky times (Friday afternoons, peak hours).
 
 •	Educate on safe driving in urban zones and junctions.
