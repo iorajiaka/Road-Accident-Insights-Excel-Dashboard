@@ -1,7 +1,6 @@
 # Road-Accident-Insights-Excel-Dashboard
 
-## <img width="1237" height="1125" alt="image" src="https://github.com/user-attachments/assets/8fabf679-a035-4af3-963d-aacd17e9cc01" />
-
+![Picture1](https://github.com/user-attachments/assets/1673d395-0500-432d-9bee-a61cdef4cee3)
 
 
 
@@ -10,11 +9,11 @@
 - 	[Objectives](#Objectives)
 - 	[Data Cleaning & Preparation](#Data-Cleaning-&-Preparation)
 - 	[Analytical Methods](#Analytical-Methods)
-- 	Key Findings
-- 	Descriptive Statistics
-- 	Accident Hotspots
-- 	Recommendations
-- 	Conclusion
+- 	[Key Findings](#Key-Findings)
+- 	[Descriptive Statistics](#Descriptive-Statistics)
+- 	[Accident Hotspots](#Accident-Hotspots)
+- 	[Recommendations](#Recommendations)
+- 	[Conclusion](#Conclusion)
   
 ## Introduction
 Road traffic accidents remain a serious public safety concern. Factors like road conditions, weather, speed limits, and junction types strongly influence accident severity. Accident data, however, is often unstructured, making it difficult for authorities to identify hotspots and act effectively.
@@ -22,6 +21,7 @@ This project uses statistical and visualization techniques to uncover insights a
 ## Objectives
 •	Clean and standardize road accident data (2021–2022).
 •	Analyze frequency and severity of accidents by speed, weather, and road type.
+
 •	Identify key risk factors and accident hotspots.
 •	Perform descriptive statistics (mean, median, standard deviation).
 •	Create an interactive Excel dashboard for decision-makers.
