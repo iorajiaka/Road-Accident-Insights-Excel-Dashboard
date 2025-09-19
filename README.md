@@ -1,6 +1,6 @@
 # Road-Accident-Insights-Excel-Dashboard
 
-<img width="1237" height="1125" alt="image" src="https://github.com/user-attachments/assets/8fabf679-a035-4af3-963d-aacd17e9cc01" />
+## <img width="1237" height="1125" alt="image" src="https://github.com/user-attachments/assets/8fabf679-a035-4af3-963d-aacd17e9cc01" />
 
 
 
@@ -19,25 +19,25 @@
 ## Introduction
 Road traffic accidents remain a serious public safety concern. Factors like road conditions, weather, speed limits, and junction types strongly influence accident severity. Accident data, however, is often unstructured, making it difficult for authorities to identify hotspots and act effectively.
 This project uses statistical and visualization techniques to uncover insights and propose actionable solutions.
-# Objectives
+## Objectives
 •	Clean and standardize road accident data (2021–2022).
 •	Analyze frequency and severity of accidents by speed, weather, and road type.
 •	Identify key risk factors and accident hotspots.
 •	Perform descriptive statistics (mean, median, standard deviation).
 •	Create an interactive Excel dashboard for decision-makers.
 •	Provide policy, infrastructure, and awareness recommendations.
-Data Cleaning & Preparation
+## Data Cleaning & Preparation
 •	Standardized accident records from raw Excel files.
 •	Removed inconsistencies and missing values.
 •	Created pivot tables and interactive slicers for filtering.
 •	Prepared dataset for descriptive and trend analysis.
-Analytical Methods
+## Analytical Methods
 •	Descriptive Statistics: Mean, median, and standard deviation of casualties, vehicles, and speed.
 •	Trend Analysis: Yearly, monthly, and weekly accident frequency.
 •	Severity Distribution: Fatal, serious, and slight.
 •	Environmental Impact: Road condition, weather, light, and time of day.
 •	Hotspot Identification: By location, road type, and junction.
-Key Findings
+## Key Findings
 •	Total Accidents (2021–2022): 308K
 •	Total Casualties (2021–2022): 417.9K
 •	Severity Breakdown: Slight (85%), Serious (13%), Fatal (1%)
@@ -46,17 +46,17 @@ Key Findings
 •	Peak Day: Friday (50.5K accidents)
 •	Peak Hours: 3–6 PM
 •	Highest Casualty City: Birmingham (8.6K)
-Descriptive Statistics
+## Descriptive Statistics
 Variable	Mean	Median	Std. Deviation
 Number of Vehicles	1.83	2	0.71
 Casualties	1.36	1	0.82
 Speed Limit (mph)	38.87	30	14.03
-Accident Hotspots
+## Accident Hotspots
 •	By Road Type: Single carriageways (309.7K casualties)
 •	By Junction: T-junctions/staggered (96.7K), Give-way/uncontrolled (150K)
 •	By Speed Limit: 30 mph roads (200K accidents)
 •	By City: Birmingham (8.6K casualties)
-Recommendations
+## Recommendations
 Infrastructure
 •	Add rumble strips and clear markings on single carriageways.
 •	Upgrade signage and signal control at T-junctions.
@@ -68,6 +68,6 @@ Policy & Enforcement
 Public Awareness
 •	Launch campaigns targeting risky times (Friday afternoons, peak hours).
 •	Educate on safe driving in urban zones and junctions.
-Conclusion
+## Conclusion
 "Safer Roads Require Smarter Data-Driven Action."
 By analyzing accident data and identifying hotspots, this project provides a foundation for evidence-based road safety improvements, combining policy, infrastructure, and public awareness to reduce accidents and save lives.
