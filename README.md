@@ -104,6 +104,7 @@ Speed Limit (mph)	38.87	30	14.03
 •	Mandate junction safety reviews in urban planning.
 
 **Public Awareness**
+
 •	Launch campaigns targeting risky times (Friday afternoons, peak hours).
 
 •	Educate on safe driving in urban zones and junctions.
