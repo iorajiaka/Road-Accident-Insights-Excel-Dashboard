@@ -1,6 +1,6 @@
 # Road-Accident-Insights-Excel-Dashboard
 
-![Picture1](https://github.com/user-attachments/assets/1673d395-0500-432d-9bee-a61cdef4cee3)
+### ![Picture1](https://github.com/user-attachments/assets/1673d395-0500-432d-9bee-a61cdef4cee3)
 
 
 
@@ -21,16 +21,19 @@ This project uses statistical and visualization techniques to uncover insights a
 ## Objectives
 •	Clean and standardize road accident data (2021–2022).
 •	Analyze frequency and severity of accidents by speed, weather, and road type.
-
 •	Identify key risk factors and accident hotspots.
 •	Perform descriptive statistics (mean, median, standard deviation).
 •	Create an interactive Excel dashboard for decision-makers.
 •	Provide policy, infrastructure, and awareness recommendations.
 ## Data Cleaning & Preparation
 •	Standardized accident records from raw Excel files.
+
 •	Removed inconsistencies and missing values.
+
 •	Created pivot tables and interactive slicers for filtering.
+
 •	Prepared dataset for descriptive and trend analysis.
+
 ## Analytical Methods
 •	Descriptive Statistics: Mean, median, and standard deviation of casualties, vehicles, and speed.
 •	Trend Analysis: Yearly, monthly, and weekly accident frequency.
